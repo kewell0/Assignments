@@ -1,7 +1,3 @@
-# Week 3 CSS Fundamentals
+# Week 4 Task > CSS cont
 
-https://replit.com/@CalebOwatah/PORTFOLIO#index.html
-
-# Week 3 Tasks ( b) Using HTML and CSS
-
-https://replit.com/@CalebOwatah/Week-3-Tasks-b-Using-HTML-and-CSS#index.html
+https://replit.com/@CalebOwatah/Week-4-Task-greater-CSS-cont#index.html
